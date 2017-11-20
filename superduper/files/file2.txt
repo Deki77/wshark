@@ -1,0 +1,11 @@
+Tcp:
+    119761 active connections openings
+    561 passive connection openings
+    458 failed connection attempts
+    6066 connection resets received
+    0 connections established
+    14527490 segments received
+    10446625 segments send out
+    25985 segments retransmited
+    1096 bad segments received.
+    29645 resets sent

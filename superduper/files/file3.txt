@@ -1,0 +1,12 @@
+Total number of receieved segments is: 307921
+Total number of sent segments is: 154970
+Total number of dropped packets is: 3
+Total number of bad segments is: 0
+Total number of receieved segments is: 307745
+Total number of sent segments is: 152214
+Total number of dropped packets is: 2
+Total number of bad segments is: 0
+Total number of receieved segments is: 307796
+Total number of sent segments is: 148588
+Total number of dropped packets is: 1
+Total number of bad segments is: 0
